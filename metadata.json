@@ -1,0 +1,6 @@
+{
+  "name": "Self-learning Tutor",
+  "description": "An AI-powered self-learning tutor that generates personalized learning paths, provides interactive lessons, quizzes, and practical tasks for any subject.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
